@@ -1,0 +1,38 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    padding: 10px;
+}
+#left{
+    float: left;
+    
+}
+#right{
+    float: right;
+    
+}
+img{
+    width: 65px;
+    height: 65px;
+}
+p{
+    text-align: center;
+    font-size: 14px;
+}
+.first p{
+    padding-top: 30px;
+}
+.first{
+  
+    height: 100px;
+}
+li{
+    display: inline-flex;
+justify-content: center;
+    text-decoration: none;
+    list-style: none;
+}
+.icons{
+    text-align: center;
+}
